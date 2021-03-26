@@ -42,6 +42,9 @@ git config --global user.email "ict.anderson.rossi@gmail.com"
 
 git config user.name "marco.mendonca"
 git config user.email "marco.mendonca@primesquad.com.br"
+
+git config user.name "nicolaspinaoliveira"
+git config user.email "nicolas.pina.mendonca@gmail.com"
 ----------
 
 ----------
