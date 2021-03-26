@@ -1,4 +1,10 @@
+Nicol@s22
+nicolaspinaoliveira
+https://github.com/nicolaspinaoliveira
 
+
+git config user.name "nicolaspinaoliveira"
+git config user.email "nicolas.pina.mendonca@gmail.com"
 -----------
 .gitignore --> ignora arquivos para commit 
 
